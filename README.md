@@ -1,5 +1,10 @@
 # Konstantin Starovoytov
 
+<img width="768" height="1008" alt="IMG_3617" src="https://github.com/user-attachments/assets/b3f0f0b1-ccff-4210-8f3e-405059fb1e32" />
+
+
+
+
 I build small tools around AI coding agents. Mostly I want to see what an agent has loaded before I type the first message: which MCP servers, plugins and skills, what ends up in its context, and what I can turn off.
 
 ## Projects
