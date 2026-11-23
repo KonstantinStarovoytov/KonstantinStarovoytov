@@ -5,16 +5,13 @@
 
 
 
-I build small tools around AI coding agents. Mostly I want to see what an agent has loaded before I type the first message: which MCP servers, plugins and skills, what ends up in its context, and what I can turn off.
+~~Hi there 👋 I'm a passionate developer who loves clean code, coffee and open source. Below are my badges, my streak and a snake that eats my commits.~~
 
-## Projects
+What is left:
 
-- [Kitden](https://github.com/KonstantinStarovoytov/kitden): one local page for Claude Code, Codex and Cursor. Shows what each one loads, finds duplicates, turns off what you do not need. Every change is previewed, backed up and can be undone.
-- [agent-docs](https://github.com/KonstantinStarovoytov/agent-docs): an MCP server with the fresh official docs of Claude Code, Cursor, Codex and MCP, so an agent reads the current docs instead of guessing.
-- [music-agent](https://github.com/KonstantinStarovoytov/music-agent): a LangGraph agent that orders a tracklist by key, BPM and energy and explains each transition. The live version runs on [vojt.workers.dev](https://www.vojt.workers.dev/).
+- [kitden](https://github.com/KonstantinStarovoytov/kitden): a local page that shows what Claude Code, Codex and Cursor really load, and which skills got cut. You turn off what you do not need. Every change is previewed, backed up and can be undone
+- [kitden-sdlc](https://github.com/KonstantinStarovoytov/kitden-sdlc): AI reviewers, a watcher for new client versions and a release flow for Kitden. No agent job holds untrusted text, a secret and write access at once
+- [agent-docs](https://github.com/KonstantinStarovoytov/agent-docs): an MCP server with the fresh official docs of Claude Code, Cursor, Codex and MCP, so an agent reads the docs instead of remembering them
+- [music-agent](https://github.com/KonstantinStarovoytov/music-agent): orders a tracklist by key, BPM and energy and explains each transition. Live on [vojt.workers.dev](https://www.vojt.workers.dev/). The only one here that is not about coding agents. Still an agent
 
-## Interests
-
-Agents and the plumbing around them: MCP, context management, evals, tracing. Local tools that run without an account and show you what is on your own machine. Music, mostly as data to play with.
-
-Based in Warsaw.
+~~San Francisco~~ Warsaw
